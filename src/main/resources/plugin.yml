@@ -1,0 +1,4 @@
+main: me.coolmagic233.chatspilt.ChatSpilt
+version: "${pom.version}"
+name: ChatSpilt
+api: 1.0.0

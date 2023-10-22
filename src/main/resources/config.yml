@@ -1,0 +1,4 @@
+spilt_world:
+  - "lobby"
+
+chat_format: "<@p> @m"
